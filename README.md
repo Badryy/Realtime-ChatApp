@@ -1,2 +1,2 @@
-# ayomikun
-My other name
+# Realtime-ChatApp
+Built by Badryt with React, GraphQL & Websockets
